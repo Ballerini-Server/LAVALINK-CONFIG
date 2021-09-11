@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: 300
-  address: 127.0.0.1
+  port: 0000
+  address: 0.0.0.0
 lavalink:
   server:
-    password: "zaq"
+    password: "qwert"
     sources:
       youtube: true
       bandcamp: true
